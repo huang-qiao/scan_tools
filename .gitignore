@@ -1,3 +1,4 @@
+scan_tools.*
 cmake_install.cmake
 build/
 bin/
